@@ -12,6 +12,10 @@
 - [Email](https://github.com/manishsaraan/email-validator)
 - [Object schema](https://github.com/jquense/yup)
 
+### Forms
+
+- [Uppy](https://uppy.io) - Upload files
+
 ## React
 
 ### Forms
