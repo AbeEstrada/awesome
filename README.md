@@ -16,6 +16,9 @@
 
 - [Uppy](https://uppy.io) - Upload files
 
+### Calendar
+- [FullCalendar](https://fullcalendar.io)
+
 ### Browser
 
 - [Tornis](https://github.com/robb0wen/tornis) - Viewport
@@ -29,6 +32,10 @@
 ### Layout
 
 - [React Grid Layout](https://github.com/STRML/react-grid-layout)
+
+### Calendar
+
+- [React Datepicker](https://reactdatepicker.com)
 
 ### Images
 
