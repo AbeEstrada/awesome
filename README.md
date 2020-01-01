@@ -5,6 +5,7 @@
 ### Articles
 
 - [A Re-Introduction To Destructuring Assignment](https://www.smashingmagazine.com/2019/09/reintroduction-destructuring-assignment/)
+- [This simple math hack lets you create an image carousel without any if statements](https://dev.to/ranewallin/this-simple-math-hack-lets-you-create-an-image-carousel-without-any-if-statements-5chj)
 
 ### Text Editors
 
