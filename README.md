@@ -30,7 +30,12 @@
 ### Calendar
 - [FullCalendar](https://fullcalendar.io)
 
+### Date
+
+- [day.js](https://github.com/iamkun/dayjs)
+
 ### Time
+
 - [Spacetime](https://github.com/spencermountain/spacetime)
 
 ### Browser
