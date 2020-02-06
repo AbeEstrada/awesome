@@ -46,6 +46,10 @@
 
 - [Tabletop](https://github.com/jsoma/tabletop)
 
+### Icons
+
+- [Feather](https://github.com/feathericons/feather)
+
 ## React
 
 ### Articles
