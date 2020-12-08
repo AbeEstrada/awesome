@@ -50,6 +50,10 @@
 
 - [Feather](https://github.com/feathericons/feather)
 
+### Scroll
+
+- [Locomotive Scroll](https://github.com/locomotivemtl/locomotive-scroll)
+
 ## React
 
 ### Articles
